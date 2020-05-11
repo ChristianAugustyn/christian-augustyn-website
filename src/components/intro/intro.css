@@ -1,0 +1,32 @@
+.intro {
+    display: inline-block;
+    text-align: left;
+}
+
+.intro p {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.1em;
+    color: #1A535C;
+}
+
+.intro h1 {
+    margin: 0;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 78px;
+    color: #10373F;
+}
+
+.highlight {
+    display: inline-block;
+    background: linear-gradient(180deg,hsla(0,0%,100%,0) 88%,#FFE66D 0);
+    background-position-y: -15px;
+    background-position-x: -10px;
+    width: 357px;
+}
